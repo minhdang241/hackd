@@ -30,3 +30,5 @@ LV11-LV12: 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
 
 LV12-LV13: FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn
 ```xxd -r hex_dump```
+LV13-LV14: 
+```ssh -i sshkey.private bandit14@localhost -p 2220`
