@@ -29,6 +29,13 @@ LV10-LV11: dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
 LV11-LV12: 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
 
 LV12-LV13: FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn
+
 ```xxd -r hex_dump```
-LV13-LV14: 
+
+LV13-LV14: MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS
+
 ```ssh -i sshkey.private bandit14@localhost -p 2220`
+
+LV14-15: 8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo
+
+```telnet localhost 30000```
