@@ -27,3 +27,6 @@ LV10-LV11: dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
 ```cat data.txt | tr 'A-Za-z' 'N-ZA-Mn-za-m'```
 
 LV11-LV12: 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
+
+LV12-LV13: FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn
+```xxd -r hex_dump```
