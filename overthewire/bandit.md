@@ -41,6 +41,11 @@ LV14-15: 8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo
 ```telnet localhost 30000```
 
 LV15-LV16: kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx
-```openssl s_client -connect localhost:30001```
+
+```openssl s_client -ign_eof -connect localhost:30001```
 
 LV16-LV17
+
+```nmap -sV --open localhost -p31000-32000``` 
+
+LV17-LV18
