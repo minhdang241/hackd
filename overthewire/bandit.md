@@ -39,3 +39,8 @@ LV13-LV14: MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS
 LV14-15: 8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo
 
 ```telnet localhost 30000```
+
+LV15-LV16: kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx
+```openssl s_client -connect localhost:30001```
+
+LV16-LV17
