@@ -1,1 +1,2 @@
-Hacking stuffs
+Hacking stuffs: OS, Networking, Hardware, ...
+
